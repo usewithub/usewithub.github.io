@@ -1,7 +1,7 @@
 baseurl: '/usewithub.github.io'
 # baseurl: '/'
 permalink: pretty
-title: 'BluePrint'
+title: 'WitHub'
 
 google_analytics_id: ""
 
@@ -27,7 +27,7 @@ seo:
   meta_twitter_creator: "@zerostaticio"
 
 collections:
-  services:git remote add origin https://github.com/usewithub/usewithub.github.io.git
+  services:git remote add origin https://github.com/usewithub/usewithub.github.io.
     output: true
   team:
     output: true
