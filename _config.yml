@@ -1,4 +1,5 @@
-baseurl: '/'
+baseurl: '/BluePrint-ai.github.io'
+# baseurl: '/'
 permalink: pretty
 title: 'BluePrint'
 
