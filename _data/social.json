@@ -1,0 +1,12 @@
+[
+  {
+    "name": "LinkeDIN",
+    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/zerostaticio",
+    "image": "images/social/twitter.svg"
+  }
+]
