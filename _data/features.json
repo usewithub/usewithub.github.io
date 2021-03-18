@@ -1,17 +1,22 @@
 [
   {
-    "title": "Productive",
-    "description": "No need to spend more time maintaining notes over making them",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Developers",
+    "description": "Highlight and keep all your go to resouces & code snippets in one place.",
+    "image": "images/features/developerIcon.png"
   },
   {
-    "title": "Low Activation Energy",
-    "description": "No need to switch windows every time you want to note something.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Researchers",
+    "description": "Collect information and save highlights directly on the web",
+    "image": "images/features/researchersIcon.png"
   },
   {
-    "title": "Natural",
-    "description": "Make notes in the most natural way, leave the rest to us",
+    "title": "Readers",
+    "description": "Easily save useful knowledge when you come across it.",
     "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Everyone",
+    "description": "Use it to note your experiences & cook your recipies, there are no limits.",
+    "image": "images/features/everyoneIcon.png"
   }
 ]

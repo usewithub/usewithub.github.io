@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Manage your online journeys
 
-Blueprint is a browser extension that helps you manage your browsing sessions - clipping useful things, making notes, highlights and annotations on pages, and efficiently access this knowledge base.  
+WitHub is a browser extension that helps you manage your browsing sessions - clipping useful things, making notes, highlights and annotations on pages, and efficiently access these 'gold' resources.  

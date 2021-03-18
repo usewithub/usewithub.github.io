@@ -5,14 +5,11 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "Request Access"
-    url: "/contact/"
-    weight: 4
-
+  
 footer:
   - name: "About"
     url: "/"
     weight: 1
   - name: "Request Access"
-    url: "/contact/"
+    url: "/usewithub.github.io/"
     weight: 2
