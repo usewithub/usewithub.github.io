@@ -2,9 +2,6 @@ main:
   - name: "Home"
     url:  "/"
     weight: 1
-  - name: "About"
-    url: "/services/"
-    weight: 2
   - name: "Team"
     url: "/team/"
     weight: 3
