@@ -1,4 +1,7 @@
 main:
+  - name: "Home"
+    url:  "/"
+    weight: 1
   - name: "About"
     url: "/services/"
     weight: 2
@@ -7,9 +10,9 @@ main:
     weight: 3
   
 footer:
-  - name: "About"
+  - name: "Home"
     url: "/"
     weight: 1
   - name: "Request Access"
-    url: "/usewithub.github.io/"
+    url: "https://withub.typeform.com/to/iKeHTt56/"
     weight: 2

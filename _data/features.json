@@ -1,22 +1,22 @@
 [
   {
     "title": "Developers",
-    "description": "Highlight and keep all your go to resouces & code snippets in one place.",
-    "image": "images/features/developerIcon.png"
+    "description": "Keep all your code snippets in one place, easy to find when you need them!",
+    "image": "images/features/developerIcon.svg"
   },
   {
     "title": "Researchers",
-    "description": "Collect information and save highlights directly on the web",
-    "image": "images/features/researchersIcon.png"
+    "description": "Find unexpected relations between various bits of information.",
+    "image": "images/features/researcherIcon.svg"
   },
   {
-    "title": "Readers",
-    "description": "Easily save useful knowledge when you come across it.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Writers",
+    "description": "Save text highlights from the web and collect inspiration for your next big article.",
+    "image": "images/features/writersIcon.svg"
   },
   {
     "title": "Everyone",
-    "description": "Use it to note your experiences & cook your recipies, there are no limits.",
-    "image": "images/features/everyoneIcon.png"
+    "description": "Use it for your reading lists, your web notes, your recipes or all of the above. There are no rules.",
+    "image": "images/features/everyoneIcon1.svg"
   }
 ]

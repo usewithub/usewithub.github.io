@@ -9,5 +9,3 @@ promoted: true
 weight: 1
 layout: team
 ---
-
-Ltext

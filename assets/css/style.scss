@@ -2,9 +2,9 @@
 # this ensures Jekyll reads the file to be transformed into CSS later
 ---
 
+$primary: #2e408f;
 // Colors
-$primary: #1261A0;
-$secondary: #A05112;
+$secondary: #2e408f;
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
@@ -18,13 +18,13 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+$font-family-base: 'Raleway', sans-serif, -apple-system;
+$font-family-heading: 'Raleway', sans-serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color:  $primary;
 $sub-footer-text-color: $white;
 
 // Bootstrap

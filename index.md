@@ -8,6 +8,9 @@ intro_image_hide_on_mobile: true
 ---
 
 
-# It's your own wit, use it as you please.
+# Having trouble finding your notes on time?
 
-No need to spend any more time managing your knowledge.
+Check your google drive, or maybe that dropbox account you created last month. What about your bookmarks, did you check them?
+
+### ... Still searching?
+
