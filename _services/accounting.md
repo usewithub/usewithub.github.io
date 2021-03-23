@@ -6,7 +6,7 @@ weight: 1
 layout: page
 ---
 
-Highlight and annotate directly on webpages.
+<span style="background-color:yellow;">Highlight and annotate directly on webpages.</span>
 
 
 

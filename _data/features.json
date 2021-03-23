@@ -5,18 +5,13 @@
     "image": "images/features/developerIcon.svg"
   },
   {
-    "title": "Researchers",
-    "description": "Find unexpected relations between various bits of information.",
-    "image": "images/features/researcherIcon.svg"
-  },
-  {
     "title": "Writers",
     "description": "Save text highlights from the web and collect inspiration for your next big article.",
     "image": "images/features/writersIcon.svg"
   },
   {
     "title": "Everyone",
-    "description": "Use it for your reading lists, your web notes, your recipes or all of the above. There are no rules.",
+    "description": "Use it for your reading lists, your web notes, your recipes or all of the above. There are no rules. ",
     "image": "images/features/everyoneIcon1.svg"
   }
 ]
