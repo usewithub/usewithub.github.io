@@ -19,9 +19,9 @@ footer:
 seo:
   meta_og_title: "WitHub"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
+  meta_og_url: "https://www.getwithub.com"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "Make notes directly on your browser"
   meta_twitter_card: "summary"
   meta_twitter_site: "@getwithub"
   meta_twitter_creator: "@getwithub"
