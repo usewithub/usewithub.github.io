@@ -17,7 +17,7 @@ footer:
   copyright_text: 'All rights reserved. WitHub 2021.' 
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "WitHub"
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif.netlify.app"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
