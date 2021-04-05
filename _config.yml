@@ -9,7 +9,7 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo.svg"
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 
@@ -20,7 +20,7 @@ seo:
   meta_og_title: "WitHub"
   meta_og_type: "website"
   meta_og_url: "https://www.getwithub.com"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_image: "images/logo/logo.svg"
   meta_og_description: "Make notes directly on your browser"
   meta_twitter_card: "summary"
   meta_twitter_site: "@getwithub"
