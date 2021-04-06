@@ -12,5 +12,5 @@ intro_image_hide_on_mobile: true
 
 Check your google drive, or maybe that dropbox account you created last month. What about your bookmarks, did you check them?
 
-##... Still searching?
+## ... Still searching?
 
