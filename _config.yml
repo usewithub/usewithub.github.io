@@ -2,6 +2,7 @@ baseurl: '/usewithub.github.io'
 # baseurl: '/'
 permalink: pretty
 title: 'WitHub'
+sitemap: 'true'
 
 google_analytics_id: "G-YE09HY1BWG"
 
@@ -41,6 +42,7 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
