@@ -3,7 +3,7 @@ baseurl: '/usewithub.github.io'
 permalink: pretty
 title: 'WitHub'
 
-google_analytics_id: ""
+google_analytics_id: "G-YE09HY1BWG"
 
 homepage:
   show_call_box: true
@@ -25,6 +25,7 @@ seo:
   meta_twitter_card: "summary"
   meta_twitter_site: "@getwithub"
   meta_twitter_creator: "@getwithub"
+  tagline: "for browser users, by browser users"
   
 collections:
   services:
@@ -39,6 +40,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
@@ -51,3 +53,4 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
